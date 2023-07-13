@@ -7,7 +7,7 @@ This is a simple Django Rest Framework API that allows you to manage drinks.
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/saa1man/django-rest-api
 ```
 
 2. Install the required dependencies:
@@ -143,8 +143,6 @@ DELETE /drinks/1/
 
 **Response:**
 
-No content. The drink has been deleted successfully.
-
 ```
-
-Please make sure to replace `<repository_url>` with the actual URL of your repository where your Django project is hosted.
+No content. The drink has been deleted successfully.
+```
